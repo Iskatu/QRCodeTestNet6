@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeTestNet6", "QRCodeTestNet6.csproj", "{CA318580-FD1A-40C6-A4DF-6AC7002FD70A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA318580-FD1A-40C6-A4DF-6AC7002FD70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA318580-FD1A-40C6-A4DF-6AC7002FD70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA318580-FD1A-40C6-A4DF-6AC7002FD70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA318580-FD1A-40C6-A4DF-6AC7002FD70A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

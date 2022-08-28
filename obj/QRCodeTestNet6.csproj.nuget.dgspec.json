@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ishi/RiderProjects/QRCodeTestNet6/QRCodeTestNet6.csproj": {}
+  },
+  "projects": {
+    "/home/ishi/RiderProjects/QRCodeTestNet6/QRCodeTestNet6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ishi/RiderProjects/QRCodeTestNet6/QRCodeTestNet6.csproj",
+        "projectName": "QRCodeTestNet6",
+        "projectPath": "/home/ishi/RiderProjects/QRCodeTestNet6/QRCodeTestNet6.csproj",
+        "packagesPath": "/home/ishi/.nuget/packages/",
+        "outputPath": "/home/ishi/RiderProjects/QRCodeTestNet6/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ishi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BarCode": {
+              "target": "Package",
+              "version": "[2022.7.7345, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.108/sdk/6.0.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
