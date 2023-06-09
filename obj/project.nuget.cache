@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eFNixX16K0RGYmOukavxXZGCFNPBuanoLvzQInSmOQdDZSQ7ufcoaGeRPjHTFwxBflPkTit8A57ATm2pPwiNTQ==",
+  "dgSpecHash": "EDD8lWuoqG/pPjTRhZIlbqnBzlZi3PecI/StieJDWdhf6F/wRhpOmedXFHbsYJq6IL9/BEF3bmkjDEMfaNTW0A==",
   "success": true,
-  "projectFilePath": "/home/ishi/RiderProjects/QRCodeTestNet6/QRCodeTestNet6.csproj",
+  "projectFilePath": "C:\\Users\\amend\\RiderProjects\\QRCodeTestNet6\\QRCodeTestNet6.csproj",
   "expectedPackageFiles": [
-    "/home/ishi/.nuget/packages/barcode/2022.7.7345/barcode.2022.7.7345.nupkg.sha512",
-    "/home/ishi/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
-    "/home/ishi/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
-    "/home/ishi/.nuget/packages/system.drawing.common/5.0.2/system.drawing.common.5.0.2.nupkg.sha512"
+    "C:\\Users\\amend\\.nuget\\packages\\barcode\\2022.7.7345\\barcode.2022.7.7345.nupkg.sha512",
+    "C:\\Users\\amend\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\amend\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\amend\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
   ],
   "logs": []
 }
